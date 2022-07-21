@@ -335,8 +335,8 @@ disableHugoGeneratorInject = true
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = true
-        appId = "FAqCrHyyVCE8w4GnFw00eBt2-MdYXbMMI"
-        appKey = "N7kddd7v2YCkDrNxB7LBT9xi"
+        appId = "RjjOlkVeLyEqVnmsDE9fu6Im-gzGzoHsz"
+        appKey = "1LeyxfU8SA4jOsc8rDGWlUj8"
         placeholder = "欢迎交流👏"
         avatar = "robohash"
         meta= ""
@@ -346,7 +346,7 @@ disableHugoGeneratorInject = true
         recordIP = false
         highlight = true
         enableQQ = true
-        serverURLs = "https://FAqCrHyy.api.lncldglobal.com"
+        serverURLs = "https://rjjolkve.lc-cn-n1-shared.com"
         # LoveIt 新增 | 0.2.6 emoji 数据文件名称, 默认是 "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # 位于 "themes/LoveIt/assets/data/emoji/" 目录
