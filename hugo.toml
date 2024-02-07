@@ -5,6 +5,7 @@ LanguageCode = "zh-CN"
 title = 'LeeeSe'
 theme = "LoveIt"
 
+
 # 默认每页列表显示的文章数目
 paginate = 2
 # 版权描述，仅仅用于 SEO
@@ -292,9 +293,9 @@ enable = true
 # 你可以参考官方文档来使用下列配置
 enable = true
 repo = "LeeeSe/blog"
-repoId = "R_kgDOLPP_RA"
+repoId = "R_kgDOLPVfrg"
 category = "General"
-categoryId = "DIC_kwDOLPP_RM4CdBJ6"
+categoryId = "DIC_kwDOLPVfrs4CdBeR"
 mapping = "og:title"
 
 [markup]
